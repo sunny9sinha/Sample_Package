@@ -9,7 +9,7 @@ DESCRIPTION = 'Loan prediction model'
 URL = 'https://github.com/sunny9sinha'
 EMAIL = 'sunny9sinha@gmail.com'
 AUTHOR = 'Sunny'
-REQUIRES_PYTHON = '>=3.12.3'
+REQUIRES_PYTHON = '>=3.7.0'
 
 pwd = os.path.abspath(os.path.dirname(__file__))
 
